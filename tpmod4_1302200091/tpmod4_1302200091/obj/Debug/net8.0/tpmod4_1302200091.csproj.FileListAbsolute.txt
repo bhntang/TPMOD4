@@ -1,0 +1,14 @@
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\bin\Debug\net8.0\tpmod4_1302200091.exe
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\bin\Debug\net8.0\tpmod4_1302200091.deps.json
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\bin\Debug\net8.0\tpmod4_1302200091.runtimeconfig.json
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\bin\Debug\net8.0\tpmod4_1302200091.dll
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\bin\Debug\net8.0\tpmod4_1302200091.pdb
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\tpmod4_1302200091.GeneratedMSBuildEditorConfig.editorconfig
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\tpmod4_1302200091.AssemblyInfoInputs.cache
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\tpmod4_1302200091.AssemblyInfo.cs
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\tpmod4_1302200091.csproj.CoreCompileInputs.cache
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\tpmod4_1302200091.dll
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\refint\tpmod4_1302200091.dll
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\tpmod4_1302200091.pdb
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\tpmod4_1302200091.genruntimeconfig.cache
+D:\acong\tpmod4_1302200091\tpmod4_1302200091\obj\Debug\net8.0\ref\tpmod4_1302200091.dll
